@@ -1,4 +1,4 @@
-# Learning Management System (LMS)
+# Library Management System (LMS)
 _**by Muhammad Vahhaaj**_
 
 ***
@@ -29,14 +29,14 @@ Database has four tables.
 ## Welcome Screen
 ![Welcome Screen of Application, Front-end](https://github.com/m-vahhaaj/LMS/blob/master/Miscellaneous/Picture1.png)
 
-This screen is the introductory screen of Learning Management System. This screen has two button. Start button initializes LMS and the Exit button safely closes the program in pre-execution state.
+This screen is the introductory screen of Library Management System. This screen has two button. Start button initializes LMS and the Exit button safely closes the program in pre-execution state.
 
 ***
 
 ## Login Screen
 ![Login Screen of Application, Front-end](https://github.com/m-vahhaaj/LMS/blob/master/Miscellaneous/Picture4.png)
 
-This screen is the Login screen of Learning Management System. It contains three buttons. Login button is used to login after the user has entered the credentials. Create Account button is used to create register new librarian account and automatically assign the librarian id. Forgot password is used retrieve password in case it is forgotten or there is trouble remembering account information.
+This screen is the Login screen of Library Management System. It contains three buttons. Login button is used to login after the user has entered the credentials. Create Account button is used to create register new librarian account and automatically assign the librarian id. Forgot password is used retrieve password in case it is forgotten or there is trouble remembering account information.
 
 ***
 
